@@ -1,0 +1,23 @@
+{
+  "name": "favicon-generator",
+  "version": "1.0.0",
+  "description": "Favicons generator for Node.js using ImageMagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandrean/favicon-generator"
+  },
+  "author": "Sebastian Mandrean <sebastian.mandrean@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandrean/favicon-generator/issues"
+  },
+  "homepage": "https://github.com/mandrean/favicon-generator",
+  "dependencies": {
+    "async": "^0.9.0",
+    "imagemagick": "^0.1.3"
+  }
+}
