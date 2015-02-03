@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mandrean/favicon-generator",
   "dependencies": {
     "async": "^0.9.0",
-    "imagemagick": "^0.1.3"
+    "imagemagick": "^0.1.3",
+    "jsonfile": "^2.0.0",
+    "metaparser": "^1.0.5"
   }
 }
